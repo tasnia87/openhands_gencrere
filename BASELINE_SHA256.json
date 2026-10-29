@@ -1,0 +1,11 @@
+{
+  ".gitignore": "e7fc736b0f867974fc654a194fcd75bd0e0756d8c0e5fd9239da24ebe9ce024a",
+  "README.md": "0ad21606587cc50790185da164b91bb60e2fa1b4842ee748802bb63e501278a6",
+  "STUDY_PROTOCOL.md": "cd1d92a753d1b1556e03098740c02d2aa1255a11e0713b2b36408a2ca9141147",
+  "app.py": "b35aa5bc6779e7f2005c4785e5828cba929356e6df9ba3f1a3aa42af1fc0e1e2",
+  "requirements.txt": "0eacd746528385dc5f7e71ff8837d8f09da313abf861c6c141b698a9659a8324",
+  "static/app.js": "cea893bd7d28a8537ee0f099e02dd66068d953d7a2e78ba78dae82153063960b",
+  "static/style.css": "bb499a8ecfaca937bc553a2b7f76b50590f43c7bb481100a17f9cc91aa3996f3",
+  "templates/index.html": "c77ada02ec2e4ed97e900295b5cd263ec709a99829b9cd9cb3119ca390c9c81e",
+  "tests/test_baseline.py": "66ef2dffacc183eada76b24691444eef3a6a82cd4e822b95ca08a92feac6732f"
+}
